@@ -9,7 +9,9 @@
 
 MSCI Dataset is crack image database which contains crack images with diferent length, width, pattern, and strucutre. The database is created by capturing the crack images at the University of Malaya, Malaysia. The capturing task is conducted by using Canon EOS 1300D camera model. For better results and focused images, camera resolution was set at 5184 x 3456. Only those images of cracks are captured which lays at the distance of 1 to 3 ft between the source (crack) and camera. Meanwhile,
 the vertical distance was 7 to 8 ft high from the ground.
-Original captured Images resolution 5184 x 3456 x 3. (The images will be uploaded soon) 
+
+Original captured Images resolution: 5184 x 3456 x 3. (The images will be uploaded soon) 
+
 Cropped and resized to 256 x 256 x 3. 
 
 ###################################################################
