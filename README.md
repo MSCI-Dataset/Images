@@ -16,7 +16,7 @@ Cropped and resized to 256 x 256 x 3.
 
 ###################################################################
 
-# Uplaoded Iamges and Groundtruth masks.
+# Uplaoded Iamges and Groundtruth masks
 
 ###################################################################
 
@@ -32,7 +32,7 @@ University of Malaya, Malaysia.
 
 ###################################################################
 
-# Citation: Please cite the corresponding papers when using this MSCI- dataset.
+# Citation: Please cite the corresponding papers when using this MSCI- Dataset
 
 ###################################################################
 
