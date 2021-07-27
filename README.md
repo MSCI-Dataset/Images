@@ -9,4 +9,6 @@ Multi Structure Crack Images
 
 MSCI Dataset is crack image database which contains crack images with diferent length, width, pattern, and strucutre. 
 
-GroundTruth labels will be uploaded soon...
+The original 500 RGB images along with GroundTruth labels are uploaded.
+
+
